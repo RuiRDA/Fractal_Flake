@@ -2,7 +2,7 @@
 
 This repository contains three different projects related to fractal snowflakes, implemented using Processing and p5.js.
 
-## Projects Included
+## Projects Included.
 
 ### Rui_Fractal
 
@@ -37,6 +37,12 @@ This project uses p5.js to create fractal snowflakes.
 
 The repository includes several PNG images showcasing different fractal snowflake designs.
 
+
+Initial concept
+
+![Initial Concept](Rui_Fractal_initial_concept.png)
+
+Results
 Here are some examples:
 
 ![Flake 1](Flake_1.png)
@@ -47,8 +53,9 @@ Here are some examples:
 ![Flake 6](Flake_6.png)
 ![Flake 7](Flake_7.png)
 ![Flake 8](Flake_8.png)
-![Initial Concept](Rui_Fractal_initial concept.png)
+
+
 
 ## License
 
-[Add License Information Here]
+[Add License Information Here - e.g., MIT License]
